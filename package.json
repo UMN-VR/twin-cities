@@ -1,0 +1,15 @@
+{
+  "name": "@umn-vr/twin-cities",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The University of Minnesota Twin Cities campus tour as a FOSS Earth scene: 60 panoramas in 23 stops across both campuses.",
+  "license": "AGPL-3.0-only",
+  "exports": {
+    "./scene.json": "./scene.json"
+  },
+  "files": [
+    "scene.json",
+    "README.md",
+    "LICENSE"
+  ]
+}
